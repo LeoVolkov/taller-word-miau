@@ -56,3 +56,5 @@
 ### Tips adicionales.
 * Salto de línea o sangría, no ambos.
 * Títulos: solo mayúscula inicial y sin puntos.
+
+![](recursos/compukitten.gif)
